@@ -2,6 +2,8 @@
 
 Sou estudante de Informática e estou desenvolvendo minhas habilidades em programação e desenvolvimento web. 
 
+## Meu Currículo
+Acesse meu currículo publicado no GitHub Pages: https://marialivya.github.io/curriculo/
 ## 💻Tecnologias que uso
 
 - Python
